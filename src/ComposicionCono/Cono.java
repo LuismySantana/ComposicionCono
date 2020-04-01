@@ -1,6 +1,10 @@
 package ComposicionCono;
 
-
+/**
+ * Clase que genera un cono
+ * @author Luis Miguel Bolaños Santana
+ * @version 1.0
+ */
 public class Cono {
     private Circulo base;
     private float altura;

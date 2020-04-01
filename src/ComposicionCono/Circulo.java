@@ -1,6 +1,10 @@
 package ComposicionCono;
 
-
+/**
+ * Clase Circulo para la base del Cono
+ * @author Luis Miguel Bolaños Santana
+ * @version 1.0
+ */
 public class Circulo {
     private float x, y;
     private float radio;

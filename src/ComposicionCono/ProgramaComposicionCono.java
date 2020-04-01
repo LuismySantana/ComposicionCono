@@ -1,6 +1,11 @@
 package ComposicionCono;
 
 
+/**
+ * Clase principal de un Programa que crea diversos conos e imprime por pantalla sus valores
+ * @author Luis Miguel Bolaños Santana
+ * @version 1.0
+ */
 public class ProgramaComposicionCono {
     private static void imprimir (Object datos) {
         System.out.println(datos);
